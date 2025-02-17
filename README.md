@@ -11,8 +11,8 @@
 Я использовала две команды для вывода текста:
 
 `
-echo "Hello world echo ";<br>
-print "Hello world print "; <br>
+echo "Hello world echo <br>";
+print "Hello world print <br>";
 `
 
 Оператор `echo` и функция `print` выводят текст в браузер, а `<br>` добавляет перенос строки.
